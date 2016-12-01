@@ -11,6 +11,16 @@
 
 {
 "name" : {
+"first": "Bogdan",
+"last" : "Bagrii"
+},
+"sex": "male",
+"age": 50,
+"car" : "Lamborgini"
+},
+
+{
+"name" : {
 "first": "Polina",
 "last" : "Kliuieva"
 },
