@@ -1,0 +1,52 @@
+[
+{
+"name" : {
+"first": "Nazar",
+"last" : "Bagrii"
+},
+"sex": "male",
+"age": 20,
+"car" : "lada"
+},
+
+{
+"name" : {
+"first": "Polina",
+"last" : "Kliuieva"
+},
+"sex": "female",
+"age": 21,
+"car" : null
+},
+
+{
+"name" : {
+"first": "Aleh",
+"last" : "Bagrii"
+},
+"sex": "male",
+"age": 24,
+"car" : "lada"
+},
+
+{
+"name" : {
+"first": "Marina",
+"last" : "Klava"
+},
+"sex": "female",
+"age": 48,
+"car" : null
+},
+
+{
+   "name" : 
+     {
+       "first": "Roman",
+       "last" : "Grechittios"
+     },
+    "sex": "mail",
+    "age": 20,
+    "car" : "skoda"
+}
+]
