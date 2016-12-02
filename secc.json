@@ -1,14 +1,32 @@
 [
 {
 "name" : {
+<<<<<<< HEAD
 "first": "Nazar2222",
 "last" : "Bagrii2222"
+=======
+"first": "Nazar1111",
+"last" : "Bagrii1111"
+>>>>>>> master
 },
 "sex": "male",
 "age": 20,
 "car" : "lada"
 },
 
+<<<<<<< HEAD
+=======
+{
+"name" : {
+"first": "Bogdan",
+"last" : "Bagrii"
+},
+"sex": "male",
+"age": 50,
+"car" : "Lamborgini"
+},
+
+>>>>>>> master
 {
 "name" : {
 "first": "Polina",
