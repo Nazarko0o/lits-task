@@ -9,6 +9,15 @@
 "car" : "lada"
 },
 
+{
+"name" : {
+"first": "Bo",
+"last" : "Bagrii"
+},
+"sex": "male",
+"age": 20,
+"car" : "lada"
+},
 
 {
 "name" : {
