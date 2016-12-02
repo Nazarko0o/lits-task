@@ -1,23 +1,12 @@
 [
 {
 "name" : {
-"first": "Nazar",
-"last" : "Bagrii"
+"first": "Nazar2222",
+"last" : "Bagrii2222"
 },
 "sex": "male",
 "age": 20,
 "car" : "lada"
-},
-
-
-{
-"name" : {
-"first": "Bog",
-"last" : "Bagrii"
-},
-"sex": "male",
-"age": 50,
-"car" : "Lamborgini"
 },
 
 {
